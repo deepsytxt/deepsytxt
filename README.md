@@ -1,7 +1,7 @@
 # 💫 About Me:
 Middle school student exploring code, design, and Linux.<br>Building small projects, improving every day.<br>Interested in backend development, automation, and clean interfaces.
 
-##![MYBIOSITE](deepsybio.netlify.app).
+## ![MYBIOSITE](deepsybio.netlify.app).
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:de3psy@gmail.com) 
 
