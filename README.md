@@ -27,11 +27,13 @@ My Bio Site - [https://deepsybio.netlify.app/](https://deepsybio.netlify.app/)
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="Arch Linux" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/fedora/51A2DA" alt="Fedora" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/arduino/00979D" alt="Arduino" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
 </div>
-
 <i>*(Иконки имеют встроенное минималистичное скругление)*</i>
 
 ---
