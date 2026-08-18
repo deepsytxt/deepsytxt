@@ -21,17 +21,18 @@ My Bio Site - [https://deepsybio.netlify.app/](https://deepsybio.netlify.app/)
 
 ## 💻 Tech Stack:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-</p>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/arduino/00979D" alt="Arduino" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+</div>
+
+<i>*(Иконки имеют встроенное минималистичное скругление)*</i>
 
 ---
 
