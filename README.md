@@ -1,24 +1,53 @@
-# 💫 About Me:
-Middle school student exploring code, design, and Linux.<br>Building small projects, improving every day.<br>Interested in backend development, automation, and clean interfaces.
+<!-- Баннер профиля (можете сделать свою картинку в Figma/Photoshop и загрузить в репозиторий) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ваш-ник/ваш-ник/main/banner.png" width="100%">
+</p>
 
-My Bio Site - https://deepsybio.netlify.app/
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:de3psy@gmail.com) 
+## 💫 About Me:
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Deepsy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Deepsy&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Deepsy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+* 💻 Middle school student exploring code, design, and Linux.
+* 🚀 Building small projects, improving every day.
+* 🎯 Interested in backend development, automation, and clean interfaces.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepsy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Deepsy&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+My Bio Site - [https://deepsybio.netlify.app/](https://deepsybio.netlify.app/)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Deepsy&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ваша-почта@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<!-- Статистика аккаунта (замените ghhbxtg-dotcom на свой ник) -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghhbxtg-dotcom&show_icons=true&theme=transparent&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghhbxtg-dotcom&layout=compact&theme=transparent&hide_border=true" width="48%">
+</p>
+
+<!-- Трофеи GitHub -->
+<p>
+  <img src="https://github-profile-trophies.vercel.app/?username=ghhbxtg-dotcom&theme=transparent&no-bg=true&no-frame=true" width="100%">
+</p>
+
+<!-- График активности -->
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghhbxtg-dotcom&theme=transparent" width="100%">
+</p>
