@@ -1,4 +1,4 @@
-<!-- Баннер профиля (можете загрузить картинку banner.png в корень репозитория) -->
+<!-- Баннер профиля -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghhbxtg-dotcom/ghhbxtg-dotcom/main/banner.png" width="100%">
 </p>
@@ -21,26 +21,40 @@ My Bio Site - [https://deepsybio.netlify.app/](https://deepsybio.netlify.app/)
 
 ## 💻 Tech Stack:
 
+### ⚡ Programming Languages:
 <div align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="Arch Linux" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/fedora/51A2DA" alt="Fedora" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/arduino/00979D" alt="Arduino" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="36" height="36" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="36" height="36" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="36" height="36" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" width="36" height="36" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/csharp/239120" alt="C#" width="36" height="36" style="margin-right: 10px;"/>
 </div>
-<i>*(Иконки имеют встроенное минималистичное скругление)*</i>
+
+### 📄 Markup & Styles:
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="36" height="36" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="36" height="36" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/xml/000000" alt="XML" width="36" height="36" style="margin-right: 10px;"/>
+</div>
+
+### 🐧 Systems & Hardware:
+<div align="left">
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="36" height="36" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="Arch Linux" width="36" height="36" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/fedora/51A2DA" alt="Fedora" width="36" height="36" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/arduino/00979D" alt="Arduino" width="36" height="36" style="margin-right: 10px;"/>
+</div>
+
+### 🛠️ Tools & Version Control:
+<div align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="36" height="36" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="36" height="36" style="margin-right: 10px;"/>
+</div>
 
 ---
 
 ## 📈 Activity Graph:
 
-<!-- График активности (кривая линии, как на скриншоте) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghhbxtg-dotcom&theme=react-dark&hide_border=true" width="100%">
 </p>
