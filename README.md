@@ -1,4 +1,11 @@
-<!-- Баннер профиля -->
+<!-- Живой плеер (замените ВАШ_SPOTIFY_ID на ваш ID из ссылки Spotify) -->
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=[ВАШ_SPOTIFY_ID](https://open.spotify.com/user/31rsi4y2wvfzkbsdfl5zx24xghha?si=12013021a4294843)&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" width="600" />
+  </a>
+</p>
+
+<!-- Ваш баннер -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghhbxtg-dotcom/ghhbxtg-dotcom/main/banner.png" width="100%">
 </p>
