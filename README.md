@@ -46,14 +46,11 @@
 
 <div align="center">
 
-<a href="https://t.me/YOUR_CHANNEL"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/YOUR_BOT"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/YOUR_ANON"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tiktok.com/@YOUR_TIKTOK"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/YOUR_DISCORD"><img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50"/></a>
-
-<code>Channel</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Bot</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Anon</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>TikTok</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Discord</code>
+<a href="https://t.me/YOUR_CHANNEL"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/YOUR_BOT"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/YOUR_ANON"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tiktok.com/@YOUR_TIKTOK"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/YOUR_DISCORD"><img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50"/></a><br><code>Channel</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Bot</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Anon</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>TikTok</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Discord</code>
 
 </div>
 
 <br>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  OPERATING SYSTEMS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
