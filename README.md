@@ -42,12 +42,49 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         SOCIALS                                 -->
 <!-- ══════════════════════════════════════════════════════════════ -->
-## 🌐 Социальные сети
+##  Социальные сети
 
 <div align="center">
 
-| <div style="text-align:center"><a href="https://t.me/YOUR_CHANNEL"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50"/></a><br><code>Channel</code></div> | <div style="text-align:center"><a href="https://t.me/YOUR_BOT"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50"/></a><br><code>Bot</code></div> | <div style="text-align:center"><a href="https://t.me/YOUR_ANON"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50"/></a><br><code>Anon</code></div> | <div style="text-align:center"><a href="https://tiktok.com/@YOUR_TIKTOK"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50"/></a><br><code>TikTok</code></div> | <div style="text-align:center"><a href="https://discord.gg/YOUR_DISCORD"><img src="https://cdn.simpleicons.org/discord/ffffff" width="50"/></a><br><code>Discord</code></div> |
-|---|---|---|---|---|
+<table style="border-collapse: collapse; border: none;">
+<tr>
+<td style="border: none; padding: 10px; text-align: center;">
+<a href="https://t.me/YOUR_CHANNEL">
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/>
+</a>
+<br>
+<code>Channel</code>
+</td>
+<td style="border: none; padding: 10px; text-align: center;">
+<a href="https://t.me/YOUR_BOT">
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/>
+</a>
+<br>
+<code>Bot</code>
+</td>
+<td style="border: none; padding: 10px; text-align: center;">
+<a href="https://t.me/YOUR_ANON">
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/>
+</a>
+<br>
+<code>Anon</code>
+</td>
+<td style="border: none; padding: 10px; text-align: center;">
+<a href="https://tiktok.com/@YOUR_TIKTOK">
+  <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50"/>
+</a>
+<br>
+<code>TikTok</code>
+</td>
+<td style="border: none; padding: 10px; text-align: center;">
+<a href="https://discord.gg/YOUR_DISCORD">
+  <img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50"/>
+</a>
+<br>
+<code>Discord</code>
+</td>
+</tr>
+</table>
 
 </div>
 
