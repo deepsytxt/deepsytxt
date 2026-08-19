@@ -47,65 +47,45 @@
 
 <div align="center">
 
-<table border="0">
-<tr>
-<td align="center" width="100">
-
+<div style="display: inline-block; text-align: center; margin: 0 10px;">
 <a href="https://t.me/YOUR_CHANNEL">
   <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram"/>
 </a>
-
 <br>
-
 `Channel`
+</div>
 
-</td>
-<td align="center" width="100">
-
+<div style="display: inline-block; text-align: center; margin: 0 10px;">
 <a href="https://t.me/YOUR_BOT">
   <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram Bot"/>
 </a>
-
 <br>
-
 `Bot`
+</div>
 
-</td>
-<td align="center" width="100">
-
+<div style="display: inline-block; text-align: center; margin: 0 10px;">
 <a href="https://t.me/YOUR_ANON">
   <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Anon Bot"/>
 </a>
-
 <br>
-
 `Anon`
+</div>
 
-</td>
-<td align="center" width="100">
-
+<div style="display: inline-block; text-align: center; margin: 0 10px;">
 <a href="https://tiktok.com/@YOUR_TIKTOK">
   <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50" alt="TikTok"/>
 </a>
-
 <br>
-
 `TikTok`
+</div>
 
-</td>
-<td align="center" width="100">
-
+<div style="display: inline-block; text-align: center; margin: 0 10px;">
 <a href="https://discord.gg/YOUR_DISCORD">
   <img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50" alt="Discord"/>
 </a>
-
 <br>
-
 `Discord`
-
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
