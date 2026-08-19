@@ -111,18 +111,6 @@
 
 <br>
 
----
-
-## ⚡ Языки программирования
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,java,kotlin&theme=dark&perline=6" />
-
-</div>
-
-<br>
-
 ##  Разметка и стили
 
 <div align="center">
