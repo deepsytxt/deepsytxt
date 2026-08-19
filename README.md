@@ -1,5 +1,5 @@
- <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         DEEPSY PROFILE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         DEEPSY PROFILE                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -17,37 +17,39 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           SPOTIFY                              -->
+<!--                           SPOTIFY                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🎧 Currently Playing
+## 🎧 Сейчас играет
 
 <a href="https://open.spotify.com/">
 
 <img
-  src="https://spotibadge.vercel.app/api/now-playing/(https://open.spotify.com/user/31rsi4y2wvfzkbsdfl5zx24xghha?si=458000753ded417e).svg?background_type=blur_dark&show_status=true&content_size=medium"
+  src="https://spotibadge.vercel.app/api/now-playing/YOUR_SPOTIBADGE_ID.svg?background_type=blur_dark&show_status=true&content_size=medium"
   width="700"
   alt="Spotify Now Playing"
 />
 
 </a>
 
+<small>Для настройки Spotify: зарегистрируйся на [SpotiBadge](https://spotibadge.vercel.app/) и замени `YOUR_SPOTIBADGE_ID` на свой ID [[3]]</small>
+
 </div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           ABOUT                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           ABOUT                                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 👋 Обо мне
 
 <div align="center">
 
-> Привет! Я Deepsy.
->
+> **Привет! Я Deepsy.**
+> 
 > Люблю Linux, программирование, микроконтроллеры и железо.
 > Экспериментирую с операционными системами, пишу свои проекты
 > и постоянно пытаюсь понять, как всё работает под капотом.
@@ -57,53 +59,56 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         SOCIALS                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         SOCIALS                                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🌐 Социальные сети
 
 <div align="center">
 
-<a href="YOUR_TELEGRAM_CHANNEL">
-  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="45" height="45" alt="Telegram"/>
+<a href="https://t.me/YOUR_TELEGRAM_CHANNEL">
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram Channel"/>
 </a>
 &nbsp;&nbsp;
 
-<a href="YOUR_TELEGRAM_BOT">
-  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="45" height="45" alt="Telegram Bot"/>
+<a href="https://t.me/YOUR_TELEGRAM_BOT">
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram Bot"/>
 </a>
 &nbsp;&nbsp;
 
-<a href="YOUR_ANON_BOT">
-  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="45" height="45" alt="Anon Bot"/>
+<a href="https://t.me/YOUR_ANON_BOT">
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Anon Bot"/>
 </a>
 &nbsp;&nbsp;
 
-<a href="YOUR_TIKTOK">
-  <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="45" height="45" alt="TikTok"/>
+<a href="https://tiktok.com/@YOUR_TIKTOK">
+  <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50" alt="TikTok"/>
 </a>
 &nbsp;&nbsp;
 
-<a href="YOUR_DISCORD">
-  <img src="https://cdn.simpleicons.org/discord/ffffff" width="45" height="45" alt="Discord"/>
+<a href="https://discord.gg/YOUR_DISCORD">
+  <img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50" alt="Discord"/>
 </a>
 
 <br><br>
 
-<a href="YOUR_TELEGRAM_CHANNEL">
-  <img src="https://img.shields.io/badge/Telegram-Channel-ffffff?style=for-the-badge&logo=telegram&logoColor=000000"/>
+<a href="https://t.me/YOUR_TELEGRAM_CHANNEL">
+  <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+&nbsp;
 
-<a href="YOUR_TELEGRAM_BOT">
-  <img src="https://img.shields.io/badge/Telegram-Bot-ffffff?style=for-the-badge&logo=telegram&logoColor=000000"/>
+<a href="https://t.me/YOUR_TELEGRAM_BOT">
+  <img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+&nbsp;
 
-<a href="YOUR_TIKTOK">
-  <img src="https://img.shields.io/badge/TikTok-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000"/>
+<a href="https://tiktok.com/@YOUR_TIKTOK">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
+&nbsp;
 
-<a href="YOUR_DISCORD">
-  <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000"/>
+<a href="https://discord.gg/YOUR_DISCORD">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
@@ -113,14 +118,14 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROGRAMMING LANGUAGES                      -->
+<!--                    PROGRAMMING LANGUAGES                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚡ Языки программирования
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,java,kotlin&theme=dark" />
 
 </div>
 
@@ -139,8 +144,9 @@
 </div>
 
 <br>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  OPERATING SYSTEMS                            -->
+<!--                  OPERATING SYSTEMS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐧 Системы и оборудование
@@ -151,14 +157,13 @@
 
 <table>
 <tr>
-
 <td align="center" width="120">
 
-<img src="https://cdn.simpleicons.org/linux/ffffff" width="50"/>
+<img src="https://cdn.simpleicons.org/linux/ffffff" width="60"/>
 
 <br>
 
-<b>Linux</b>
+**Linux**
 
 </td>
 
@@ -168,7 +173,7 @@
 
 <br>
 
-<b>Gentoo</b>
+**Gentoo**
 
 </td>
 
@@ -178,7 +183,7 @@
 
 <br>
 
-<b>Fedora</b>
+**Fedora**
 
 </td>
 
@@ -188,7 +193,7 @@
 
 <br>
 
-<b>Devuan</b>
+**Devuan**
 
 </td>
 
@@ -198,7 +203,7 @@
 
 <br>
 
-<b>NixOS</b>
+**NixOS**
 
 </td>
 
@@ -208,10 +213,9 @@
 
 <br>
 
-<b>Alpine</b>
+**Alpine**
 
 </td>
-
 </tr>
 </table>
 
@@ -223,37 +227,35 @@
 
 <table>
 <tr>
-
 <td align="center" width="150">
 
-<img src="https://cdn.simpleicons.org/arduino/ffffff" width="50"/>
+<img src="https://cdn.simpleicons.org/arduino/ffffff" width="60"/>
 
 <br>
 
-<b>Arduino</b>
+**Arduino**
 
 </td>
 
 <td align="center" width="150">
 
-<img src="https://cdn.simpleicons.org/espressif/ffffff" width="50"/>
+<img src="https://cdn.simpleicons.org/espressif/ffffff" width="60"/>
 
 <br>
 
-<b>ESP32</b>
+**ESP32**
 
 </td>
 
 <td align="center" width="150">
 
-<img src="https://cdn.simpleicons.org/raspberrypi/ffffff" width="50"/>
+<img src="https://cdn.simpleicons.org/raspberrypi/ffffff" width="60"/>
 
 <br>
 
-<b>Raspberry Pi</b>
+**Raspberry Pi**
 
 </td>
-
 </tr>
 </table>
 
@@ -269,31 +271,30 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,terminal&theme=dark" />
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    VERSION CONTROL                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    VERSION CONTROL                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🔧 Системы контроля версий
 
 <div align="center">
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/YOUR_USERNAME">
 
-<img src="https://cdn.simpleicons.org/git/ffffff" width="55" height="55" alt="Git"/>
+<img src="https://cdn.simpleicons.org/git/ffffff" width="60" height="60" alt="Git"/>
 
 </a>
-
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/YOUR_USERNAME">
 
-<img src="https://cdn.simpleicons.org/github/ffffff" width="55" height="55" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="60" height="60" alt="GitHub"/>
 
 </a>
 
@@ -309,15 +310,15 @@
 
 <div align="center">
 
-<a href="YOUR_PROJECT_1">
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_1">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY_1&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
   />
 </a>
 
-<a href="YOUR_PROJECT_2">
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY_2&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
   />
 </a>
 
@@ -325,7 +326,7 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 <!--                       GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -334,12 +335,12 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
   height="180"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
   height="180"
 />
 
@@ -352,8 +353,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
 <img
-  src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&fire=ffffff&currStreakLabel=ffffff"
   alt="GitHub Streak"
 />
 
@@ -361,7 +363,7 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 <!--                          ACTIVITY                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -370,7 +372,7 @@
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true&color=ffffff"
   width="95%"
   alt="GitHub Activity Graph"
 />
@@ -381,14 +383,22 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                           FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🐧 Linux • 💻 Code • 🔧 Hardware
+### 🐧 Linux • 💻 Code •  Hardware
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=ffffff&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=ffffff&label=PROFILE+VIEWS&labelColor=000000" />
 
+</div>
+
+<br>
+
+---
+
+<div align="center">
+<small>⭐ Спасибо, что заглянул! Не забудь поставить звезду, если понравилось!</small>
 </div>
