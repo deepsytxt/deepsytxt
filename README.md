@@ -16,12 +16,13 @@
 
 ## 🎧 Сейчас играет
 
+## 🎧 Сейчас играет
+
 <div align="center">
 
 <a href="https://www.last.fm/user/deepsytxt">
   <img 
-    src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=deepsytxt&theme=dark&count=1&art=1&header=0&radius=15&accent_color=10b981" 
-    width="500"
+    src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=deepsytxt&theme=dark&count=1&art=1&header=0&profile=off&time=0&stats=off&footer=off&radius=20&accent_color=10b981&width=450" 
     alt="Last Track"
   />
 </a>
