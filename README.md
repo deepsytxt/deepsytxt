@@ -46,7 +46,22 @@
 
 <div align="center">
 
-<a href="https://t.me/YOUR_CHANNEL"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/YOUR_BOT"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/YOUR_ANON"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tiktok.com/@YOUR_TIKTOK"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/YOUR_DISCORD"><img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50"/></a><br><code>Channel</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Bot</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Anon</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>TikTok</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Discord</code>
+<table border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td align="center"><a href="https://t.me/YOUR_CHANNEL"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a></td>
+<td align="center"><a href="https://t.me/YOUR_BOT"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a></td>
+<td align="center"><a href="https://t.me/YOUR_ANON"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a></td>
+<td align="center"><a href="https://tiktok.com/@YOUR_TIKTOK"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50"/></a></td>
+<td align="center"><a href="https://discord.gg/YOUR_DISCORD"><img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50"/></a></td>
+</tr>
+<tr>
+<td align="center"><code>Channel</code></td>
+<td align="center"><code>Bot</code></td>
+<td align="center"><code>Anon</code></td>
+<td align="center"><code>TikTok</code></td>
+<td align="center"><code>Discord</code></td>
+</tr>
+</table>
 
 </div>
 
