@@ -23,13 +23,29 @@
 
 ## 🎧 Недавно слушал
 
+## 🎧 Музыка
+
 <div align="center">
+
+### Сейчас играет
 
 <a href="https://www.last.fm/user/deepsytxt">
   <img 
-    src="https://lastfm-recently-played.vercel.app/api?user=deepsytxt&theme=dark&limit=3" 
+    src="https://scrobcrd.vercel.app/api/now-playing?username=deepsytxt&theme=dark&border=true" 
     width="600"
-    alt="Recently Played"
+    alt="Now Playing"
+  />
+</a>
+
+<br>
+
+### Топ исполнителей за месяц
+
+<a href="https://www.last.fm/user/deepsytxt">
+  <img 
+    src="https://scrobcrd.vercel.app/api/top-artists?username=deepsytxt&period=1month&limit=5&theme=dark" 
+    width="600"
+    alt="Top Artists"
   />
 </a>
 
