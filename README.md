@@ -20,11 +20,20 @@
 <!--                           SPOTIFY                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+
+## 🎧 Сейчас играет
+
 <div align="center">
 
 <a href="https://www.last.fm/user/deepsytxt">
-  <img src="https://scrobcrd.vercel.app/api/now-playing?username=deepsytxt&theme=dark&border=true" alt="Now Playing"/>
+  <img 
+    src="https://scrobcrd.vercel.app/api/now-playing?username=deepsytxt&theme=dark&border=true" 
+    width="600"
+    alt="Now Playing"
+  />
 </a>
+
+</div>
 
 <small>Для настройки Spotify: зарегистрируйся на [SpotiBadge](https://spotibadge.vercel.app/) и замени `YOUR_SPOTIBADGE_ID` на свой ID [[3]]</small>
 
