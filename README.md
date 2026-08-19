@@ -21,15 +21,15 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 
-## 🎧 Сейчас играет
+## 🎧 Недавно слушал
 
 <div align="center">
 
 <a href="https://www.last.fm/user/deepsytxt">
   <img 
-    src="https://scrobcrd.vercel.app/api/now-playing?username=deepsytxt&theme=dark&border=true" 
+    src="https://lastfm-recently-played.vercel.app/api?user=deepsytxt&theme=dark&limit=3" 
     width="600"
-    alt="Now Playing"
+    alt="Recently Played"
   />
 </a>
 
