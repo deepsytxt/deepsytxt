@@ -42,12 +42,12 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         SOCIALS                                 -->
 <!-- ══════════════════════════════════════════════════════════════ -->
-
 ## 🌐 Социальные сети
 
 <div align="center">
 
-<span style="display:inline-block; text-align:center; margin:0 20px;"><a href="https://t.me/YOUR_CHANNEL"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a><br><code>Channel</code></span><span style="display:inline-block; text-align:center; margin:0 20px;"><a href="https://t.me/YOUR_BOT"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a><br><code>Bot</code></span><span style="display:inline-block; text-align:center; margin:0 20px;"><a href="https://t.me/YOUR_ANON"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a><br><code>Anon</code></span><span style="display:inline-block; text-align:center; margin:0 20px;"><a href="https://tiktok.com/@YOUR_TIKTOK"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50"/></a><br><code>TikTok</code></span><span style="display:inline-block; text-align:center; margin:0 20px;"><a href="https://discord.gg/YOUR_DISCORD"><img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50"/></a><br><code>Discord</code></span>
+| <div style="text-align:center"><a href="https://t.me/YOUR_CHANNEL"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50"/></a><br><code>Channel</code></div> | <div style="text-align:center"><a href="https://t.me/YOUR_BOT"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50"/></a><br><code>Bot</code></div> | <div style="text-align:center"><a href="https://t.me/YOUR_ANON"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50"/></a><br><code>Anon</code></div> | <div style="text-align:center"><a href="https://tiktok.com/@YOUR_TIKTOK"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50"/></a><br><code>TikTok</code></div> | <div style="text-align:center"><a href="https://discord.gg/YOUR_DISCORD"><img src="https://cdn.simpleicons.org/discord/ffffff" width="50"/></a><br><code>Discord</code></div> |
+|---|---|---|---|---|
 
 </div>
 
