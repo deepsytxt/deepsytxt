@@ -14,8 +14,7 @@
 
 <a href="https://www.last.fm/user/deepsytxt">
   <img 
-    src="https://lastfm-github-profile.vercel.app/api?user=deepsytxt&mode=recent&theme=compact&bg=181818&accent=10b981&width=600" 
-    width="600"
+    src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=deepsytxt&theme=dark&count=1&art=1&header=0&profile=off&time=0&stats=off&footer=off&radius=12&accent_color=10b981&width=550" 
     alt="Now Playing"
   />
 </a>
