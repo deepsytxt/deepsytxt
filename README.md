@@ -20,14 +20,11 @@
 
 <a href="https://www.last.fm/user/deepsytxt">
   <img 
-    src="https://lastfm-github-profile.vercel.app/api?user=deepsytxt&mode=now&theme=default&bg=181818" 
+    src="https://lastfm-github-profile.vercel.app/api?user=deepsytxt&mode=smart&theme=default&bg=181818&accent=10b981" 
     width="500"
     alt="Now Playing"
   />
 </a>
-
-</div>
-<small>Для настройки Spotify: зарегистрируйся на [SpotiBadge](https://spotibadge.vercel.app/) и замени `YOUR_SPOTIBADGE_ID` на свой ID [[3]]</small>
 
 </div>
 
