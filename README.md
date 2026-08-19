@@ -46,34 +46,37 @@
 
 <div align="center">
 
-<a href="https://t.me/YOUR_CHANNEL"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram"/></a>
-<a href="https://t.me/YOUR_BOT"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Bot"/></a>
-<a href="https://t.me/YOUR_ANON"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Anon"/></a>
-<a href="https://tiktok.com/@YOUR_TIKTOK"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50" alt="TikTok"/></a>
-<a href="https://discord.gg/YOUR_DISCORD"><img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50" alt="Discord"/></a>
-
-<br><br>
-
-<code>Channel</code> &nbsp;&nbsp;&nbsp; <code>Bot</code> &nbsp;&nbsp;&nbsp; <code>Anon</code> &nbsp;&nbsp;&nbsp; <code>TikTok</code> &nbsp;&nbsp;&nbsp; <code>Discord</code>
+<table cellspacing="20" cellpadding="0" style="border: none; border-collapse: separate;">
+<tr style="border: none;">
+<td style="border: none; text-align: center; padding: 0 15px;">
+<a href="https://t.me/YOUR_CHANNEL"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>
+<br>
+<code>Channel</code>
+</td>
+<td style="border: none; text-align: center; padding: 0 15px;">
+<a href="https://t.me/YOUR_BOT"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>
+<br>
+<code>Bot</code>
+</td>
+<td style="border: none; text-align: center; padding: 0 15px;">
+<a href="https://t.me/YOUR_ANON"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a>
+<br>
+<code>Anon</code>
+</td>
+<td style="border: none; text-align: center; padding: 0 15px;">
+<a href="https://tiktok.com/@YOUR_TIKTOK"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50"/></a>
+<br>
+<code>TikTok</code>
+</td>
+<td style="border: none; text-align: center; padding: 0 15px;">
+<a href="https://discord.gg/YOUR_DISCORD"><img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50"/></a>
+<br>
+<code>Discord</code>
+</td>
+</tr>
+</table>
 
 </div>
-
-<br>
-
-##  Разметка и стили
-
-<div align="center">
-
-<!-- HTML, CSS и XML - все с логотипами -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="50" height="50" alt="XML"/>
-
-</div>
-
-<br>
 
 <br>
 
