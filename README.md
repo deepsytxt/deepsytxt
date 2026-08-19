@@ -14,18 +14,19 @@
 
 ## 🎧 Недавно слушал
 
+## 🎧 Сейчас играет
+
 <div align="center">
 
 <a href="https://www.last.fm/user/deepsytxt">
   <img 
-    src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=deepsytxt&theme=dark&count=3&art=1&header=1" 
-    width="600"
-    alt="Last.fm Recently Played"
+    src="https://lastfm-github-profile.vercel.app/api?user=deepsytxt&mode=now&theme=default&bg=181818" 
+    width="500"
+    alt="Now Playing"
   />
 </a>
 
 </div>
-
 <small>Для настройки Spotify: зарегистрируйся на [SpotiBadge](https://spotibadge.vercel.app/) и замени `YOUR_SPOTIBADGE_ID` на свой ID [[3]]</small>
 
 </div>
