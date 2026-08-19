@@ -5,7 +5,9 @@
 <div align="center">
 
   <!-- БАННЕР -->
-  <img src="./assets/banner.png" width="100%" alt="Deepsy Banner"/>
+  <div style="border-radius: 20px; overflow: hidden; display: inline-block; max-width: 100%;">
+    <img src="./assets/banner.png" width="100%" alt="Deepsy Banner"/>
+  </div>
 
   <br><br>
 
@@ -13,7 +15,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Linux+%7C+Programming+%7C+Hardware;Python+%7C+C%23+%7C+C%2B%2B+%7C+JavaScript;Arduino+%7C+ESP32+%7C+Raspberry+Pi;Building%2C+breaking+and+learning." alt="Typing SVG"/>
 
   <br><br>
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                           ABOUT                                 -->
