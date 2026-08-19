@@ -24,13 +24,11 @@
 
 ## 🎧 Сейчас играет
 
-<a href="https://open.spotify.com/">
+## 🎵 Сейчас играет
 
-<img
-  src="https://spotibadge.vercel.app/api/now-playing/YOUR_SPOTIBADGE_ID.svg?background_type=blur_dark&show_status=true&content_size=medium"
-  width="700"
-  alt="Spotify Now Playing"
-/>
+<a href="https://www.last.fm/user/deepsytxt">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=YOUR_USERNAME&theme=dark" alt="Last.fm Recently Played"/>
+</a>
 
 </a>
 
