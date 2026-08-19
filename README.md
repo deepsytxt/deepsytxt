@@ -89,15 +89,20 @@
 
 <br>
 
-## 🌐 Разметка и стили
+##  Разметка и стили
 
 <div align="center">
 
-<!-- HTML и CSS - видимые, XML - со светлым фоном -->
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-<img src="https://img.shields.io/badge/XML-FF6B6B?style=for-the-badge&logo=xml&logoColor=white" />
+<!-- HTML, CSS и XML - все с логотипами -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="50" height="50" alt="XML"/>
 
 </div>
+
+<br>
 
 <br>
 
