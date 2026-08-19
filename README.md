@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- БАННЕР -->
-  <img src="./assets/banner-rounded.png" width="100%" alt="Deepsy Banner"/>
+  <img src="./assets/banner.png" width="100%" alt="Deepsy Banner"/>
 
   <br><br>
 
