@@ -12,14 +12,6 @@
   <!-- КОРОТКАЯ ПОДПИСЬ -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Linux+%7C+Programming+%7C+Hardware;Python+%7C+C%23+%7C+C%2B%2B+%7C+JavaScript;Arduino+%7C+ESP32+%7C+Raspberry+Pi;Building%2C+breaking+and+learning." alt="Typing SVG"/>
 
-## 🎧 Недавно слушал
-
-## 🎧 Сейчас играет
-
-## 🎧 Сейчас играет
-
-<div align="center">
-
 <a href="https://www.last.fm/user/deepsytxt">
   <img 
     src="https://lastfm-github-profile.vercel.app/api?user=deepsytxt&mode=recent&theme=xorg&bg=181818&accent=10b981&width=600" 
@@ -27,7 +19,6 @@
     alt="Now Playing"
   />
 </a>
-</div>
 
 <br>
 
