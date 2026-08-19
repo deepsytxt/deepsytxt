@@ -47,45 +47,30 @@
 
 <div align="center">
 
-<div style="display: inline-block; text-align: center; margin: 0 10px;">
-<a href="https://t.me/YOUR_CHANNEL">
-  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram"/>
+<a href="https://t.me/YOUR_CHANNEL" style="display: inline-block; text-align: center; margin: 0 15px; min-width: 60px;">
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram"/><br>
+  <code>Channel</code>
 </a>
-<br>
-`Channel`
-</div>
 
-<div style="display: inline-block; text-align: center; margin: 0 10px;">
-<a href="https://t.me/YOUR_BOT">
-  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram Bot"/>
+<a href="https://t.me/YOUR_BOT" style="display: inline-block; text-align: center; margin: 0 15px; min-width: 60px;">
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram Bot"/><br>
+  <code>Bot</code>
 </a>
-<br>
-`Bot`
-</div>
 
-<div style="display: inline-block; text-align: center; margin: 0 10px;">
-<a href="https://t.me/YOUR_ANON">
-  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Anon Bot"/>
+<a href="https://t.me/YOUR_ANON" style="display: inline-block; text-align: center; margin: 0 15px; min-width: 60px;">
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Anon Bot"/><br>
+  <code>Anon</code>
 </a>
-<br>
-`Anon`
-</div>
 
-<div style="display: inline-block; text-align: center; margin: 0 10px;">
-<a href="https://tiktok.com/@YOUR_TIKTOK">
-  <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50" alt="TikTok"/>
+<a href="https://tiktok.com/@YOUR_TIKTOK" style="display: inline-block; text-align: center; margin: 0 15px; min-width: 60px;">
+  <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50" alt="TikTok"/><br>
+  <code>TikTok</code>
 </a>
-<br>
-`TikTok`
-</div>
 
-<div style="display: inline-block; text-align: center; margin: 0 10px;">
-<a href="https://discord.gg/YOUR_DISCORD">
-  <img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50" alt="Discord"/>
+<a href="https://discord.gg/YOUR_DISCORD" style="display: inline-block; text-align: center; margin: 0 15px; min-width: 60px;">
+  <img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50" alt="Discord"/><br>
+  <code>Discord</code>
 </a>
-<br>
-`Discord`
-</div>
 
 </div>
 
