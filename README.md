@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
 <td align="center" width="100">
 
@@ -60,7 +60,6 @@
 `Channel`
 
 </td>
-
 <td align="center" width="100">
 
 <a href="https://t.me/YOUR_BOT">
@@ -72,7 +71,6 @@
 `Bot`
 
 </td>
-
 <td align="center" width="100">
 
 <a href="https://t.me/YOUR_ANON">
@@ -84,7 +82,6 @@
 `Anon`
 
 </td>
-
 <td align="center" width="100">
 
 <a href="https://tiktok.com/@YOUR_TIKTOK">
@@ -96,7 +93,6 @@
 `TikTok`
 
 </td>
-
 <td align="center" width="100">
 
 <a href="https://discord.gg/YOUR_DISCORD">
