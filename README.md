@@ -47,42 +47,23 @@
 
 <div align="center">
 
-<a href="https://t.me/YOUR_TELEGRAM_CHANNEL">
-  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram Channel"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://t.me/YOUR_TELEGRAM_BOT">
-  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram Bot"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://t.me/YOUR_ANON_BOT">
-  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Anon Bot"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://tiktok.com/@YOUR_TIKTOK">
-  <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50" alt="TikTok"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://discord.gg/YOUR_DISCORD">
-  <img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50" alt="Discord"/>
-</a>
-
-<br><br>
-
-<a href="https://t.me/YOUR_TELEGRAM_CHANNEL">
-  <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<!-- Telegram с текстом в programmer style -->
+<a href="https://t.me/YOUR_CHANNEL">
+  <img src="https://img.shields.io/badge/📢-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a"/>
 </a>
 &nbsp;
 
-<a href="https://t.me/YOUR_TELEGRAM_BOT">
-  <img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://t.me/YOUR_BOT">
+  <img src="https://img.shields.io/badge/🤖-Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a"/>
 </a>
 &nbsp;
 
+<a href="https://t.me/YOUR_ANON">
+  <img src="https://img.shields.io/badge/👤-Anon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a"/>
+</a>
+&nbsp;
+
+<!-- TikTok и Discord -->
 <a href="https://tiktok.com/@YOUR_TIKTOK">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
@@ -98,29 +79,23 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROGRAMMING LANGUAGES                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## ⚡ Языки программирования
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,java,kotlin&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,java,kotlin&theme=dark&perline=6" />
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         WEB                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🌐 Разметка и стили
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,xml&theme=dark" />
+<!-- HTML и CSS - видимые, XML - со светлым фоном -->
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+<img src="https://img.shields.io/badge/XML-FF6B6B?style=for-the-badge&logo=xml&logoColor=white" />
 
 </div>
 
