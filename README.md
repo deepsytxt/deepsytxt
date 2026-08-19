@@ -47,31 +47,69 @@
 
 <div align="center">
 
-<!-- Telegram с текстом в programmer style -->
+<table>
+<tr>
+<td align="center" width="100">
+
 <a href="https://t.me/YOUR_CHANNEL">
-  <img src="https://img.shields.io/badge/📢-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram"/>
 </a>
-&nbsp;
+
+<br>
+
+`Channel`
+
+</td>
+
+<td align="center" width="100">
 
 <a href="https://t.me/YOUR_BOT">
-  <img src="https://img.shields.io/badge/🤖-Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Telegram Bot"/>
 </a>
-&nbsp;
+
+<br>
+
+`Bot`
+
+</td>
+
+<td align="center" width="100">
 
 <a href="https://t.me/YOUR_ANON">
-  <img src="https://img.shields.io/badge/👤-Anon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50" alt="Anon Bot"/>
 </a>
-&nbsp;
 
-<!-- TikTok и Discord -->
+<br>
+
+`Anon`
+
+</td>
+
+<td align="center" width="100">
+
 <a href="https://tiktok.com/@YOUR_TIKTOK">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50" alt="TikTok"/>
 </a>
-&nbsp;
+
+<br>
+
+`TikTok`
+
+</td>
+
+<td align="center" width="100">
 
 <a href="https://discord.gg/YOUR_DISCORD">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50" alt="Discord"/>
 </a>
+
+<br>
+
+`Discord`
+
+</td>
+</tr>
+</table>
 
 </div>
 
