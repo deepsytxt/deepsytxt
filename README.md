@@ -22,12 +22,8 @@
 
 <div align="center">
 
-## 🎧 Сейчас играет
-
-## 🎵 Сейчас играет
-
 <a href="https://www.last.fm/user/deepsytxt">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=deepsytxt&theme=dark" alt="Last.fm Recently Played"/>
+  <img src="https://lastfm-now-playing.vercel.app/api?user=deepsytxt&theme=dark" alt="Now Playing"/>
 </a>
 
 </a>
