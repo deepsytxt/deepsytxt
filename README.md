@@ -27,7 +27,7 @@
 <a href="https://open.spotify.com/">
 
 <img
-  src="https://spotibadge.vercel.app/api/now-playing/YOUR_SPOTIBADGE_ID.svg?background_type=blur_dark&show_status=true&content_size=medium"
+  src="https://spotibadge.vercel.app/api/now-playing/(https://open.spotify.com/user/31rsi4y2wvfzkbsdfl5zx24xghha?si=458000753ded417e).svg?background_type=blur_dark&show_status=true&content_size=medium"
   width="700"
   alt="Spotify Now Playing"
 />
