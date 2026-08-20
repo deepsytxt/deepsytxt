@@ -1,6 +1,7 @@
-<!-- БАННЕР -->
 <div align="center">
-  <img src="./assets/banners.png" width="100%" alt="Deepsy Banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=const+deepsy+=+{;+++skills:+['Linux',+'Programming',+'Hardware'];+++stack:+['Python',+'C#',+'C++'];+++status:+['Building',+'Breaking',+'Learning'];+};" alt="Code Banner"/>
+
 </div>
 
 <br>
