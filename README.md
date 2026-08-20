@@ -1,15 +1,11 @@
+
+**Или как картинка-терминал:**
+
+markdown
 <div align="center">
-<pre>
-╔══════════════════════════════════════════╗
-║  >~ deepsy                               ║
-║                                          ║
-║  Linux • Programming • Hardware          ║
-║  Python • C# • C++ • JavaScript          ║
-║  Arduino • ESP32 • Raspberry Pi          ║
-║                                          ║
-║  Building, breaking and learning.        ║
-╚══════════════════════════════════════════╝
-</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A5D669&center=true&vCenter=true&width=800&height=150&lines=deepsy@github:~%24+whoami;Linux+%7C+Programming+%7C+Hardware;Python+%7C+C%23+%7C+C%2B%2B;Building%2C+breaking+and+learning." alt="Terminal Banner"/>
+
 </div>
 
 <br>
