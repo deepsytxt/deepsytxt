@@ -1,7 +1,15 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=120&lines=const+deepsy+=+{;+++skills:+['Linux',+'Programming',+'Hardware'];+++stack:+['Python',+'C#',+'C++'];+++status:+['Building',+'Breaking',+'Learning'];+};" alt="Code Banner"/>
-
+<pre>
+╔══════════════════════════════════════════╗
+║  >~ deepsy                               ║
+║                                          ║
+║  Linux • Programming • Hardware          ║
+║  Python • C# • C++ • JavaScript          ║
+║  Arduino • ESP32 • Raspberry Pi          ║
+║                                          ║
+║  Building, breaking and learning.        ║
+╚══════════════════════════════════════════╝
+</pre>
 </div>
 
 <br>
