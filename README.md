@@ -1,5 +1,3 @@
-# 👋 Привет, я deepsy!
-
 <!-- БАННЕР -->
 <div align="center">
   <img src="./assets/banners.png" width="100%" alt="Deepsy Banner"/>
