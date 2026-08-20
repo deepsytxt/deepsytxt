@@ -1,11 +1,4 @@
-<div align="center">
 
-``bash
->~ deepsy
-Linux | Programming | Hardware
-Building, breaking and learning.
-</div>
-<br>
 <!-- LAST.FM -->
 <div align="center">
   <a href="https://www.last.fm/user/deepsytxt">
