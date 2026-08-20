@@ -205,26 +205,22 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🔧 Системы контроля версий
+##  Системы контроля версий
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://cdn.simpleicons.org/git/ffffff" width="60" height="60" alt="Git"/>
-
+  <img src="https://cdn.simpleicons.org/git/ffffff" width="60" height="60" alt="Git"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://cdn.simpleicons.org/github/ffffff" width="60" height="60" alt="GitHub"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="60" height="60" style="filter: brightness(0) invert(1);" alt="GitHub"/>
 </a>
 
 </div>
 
 <br>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         PROJECTS                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
