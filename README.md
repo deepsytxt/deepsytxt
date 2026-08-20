@@ -120,8 +120,6 @@ I love Linux, programming, microcontrollers, and hardware. I experiment with ope
 
 </div>
 
-## 📈 Активность
-
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepsytxt&theme=react-dark&hide_border=true&bg_color=181818&color=A5D669&line=A5D669&point=A5D669&area_color=A5D669&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
