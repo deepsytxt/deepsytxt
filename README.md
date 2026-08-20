@@ -207,14 +207,9 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" alt="GitHub" style="filter: brightness(0) invert(1);"/>
 
 </div>
 
