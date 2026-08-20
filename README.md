@@ -6,7 +6,7 @@
 
   <!-- БАННЕР -->
   <div style="border-radius: 20px; overflow: hidden; display: inline-block; max-width: 100%;">
-    <img src="./assets/banner-rounded.png" width="100%" alt="Deepsy Banner"/>
+    <img src="./assets/banner.gif" width="100%" alt="Deepsy Banner"/>
   </div>
 
   <br><br>
