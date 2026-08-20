@@ -203,13 +203,11 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                    VERSION CONTROL                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-##  Системы контроля версий
-
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+<img src="https://cdn.simpleicons.org/git/ffffff" width="60" height="60" alt="Git"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" alt="GitHub" style="filter: brightness(0) invert(1);"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="60" height="60" alt="GitHub"/>
 
 </div>
 
