@@ -40,6 +40,7 @@
   <img src="https://cdn.simpleicons.org/linux/ffffff" width="60" height="60" alt="Linux"/>
   <img src="https://cdn.simpleicons.org/gentoo/ffffff" width="60" height="60" alt="Gentoo"/>
   <img src="https://cdn.simpleicons.org/fedora/ffffff" width="60" height="60" alt="Fedora"/>
+  <img src="https://cdn.simpleicons.org/devuan/ffffff" width="60" height="60" alt="Devuan"/>
   <img src="https://cdn.simpleicons.org/debian/ffffff" width="60" height="60" alt="Debian"/>
   <img src="https://cdn.simpleicons.org/nixos/ffffff" width="60" height="60" alt="NixOS"/>
   <img src="https://cdn.simpleicons.org/alpinelinux/ffffff" width="60" height="60" alt="Alpine"/>
