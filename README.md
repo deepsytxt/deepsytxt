@@ -105,9 +105,9 @@ I love Linux, programming, microcontrollers, and hardware. I experiment with ope
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepsytxt&show_icons=true&theme=dark&hide_border=true&bg_color=181818&title_color=10b981&icon_color=10b981)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepsytxt&show_icons=true&theme=dark&hide_border=true&bg_color=181818&title_color=A5D669&icon_color=A5D669&border_radius=10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsytxt&layout=compact&theme=dark&hide_border=true&bg_color=181818&title_color=10b981)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsytxt&layout=compact&theme=dark&hide_border=true&bg_color=181818&title_color=A5D669&border_radius=10)
 
 </div>
 
@@ -119,13 +119,14 @@ I love Linux, programming, microcontrollers, and hardware. I experiment with ope
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=deepsytxt&theme=dark&no-frame=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/api?username=deepsytxt&theme=dark&no-frame=true&no-bg=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <br>
 
 ---
+
 
 ## 📈 Activity
 
