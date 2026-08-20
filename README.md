@@ -120,24 +120,12 @@ I love Linux, programming, microcontrollers, and hardware. I experiment with ope
 
 </div>
 
-<br>
+## 📈 Активность
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepsytxt&theme=react-dark&hide_border=true&bg_color=181818&color=10b981&line=10b981&point=10b981&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepsytxt&theme=react-dark&hide_border=true&bg_color=181818&color=A5D669&line=A5D669&point=A5D669&area_color=A5D669&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <br>
-
----
-
-<div align="center">
-
-### 🐧 Linux • 💻 Code • 🔧 Hardware
-
-<br>
-
-⭐ Спасибо, что заглянул! Не забудь поставить звезду, если понравилось!
-
-</div>
