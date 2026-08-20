@@ -113,9 +113,6 @@ I love Linux, programming, microcontrollers, and hardware. I experiment with ope
 
 <br>
 
----
-
-## 📊 GitHub Profile Stats
 
 <div align="center">
 
