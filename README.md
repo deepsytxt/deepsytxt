@@ -81,7 +81,7 @@
 ## 🔧 Инструменты
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduinoide,linux&theme=dark&perline=4" />
 </div>
 
 <br>
