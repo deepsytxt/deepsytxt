@@ -105,26 +105,11 @@ I love Linux, programming, microcontrollers, and hardware. I experiment with ope
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/deepsytxt?style=for-the-badge&logo=github&label=Followers&color=A5D669&labelColor=181818)
-![GitHub stars](https://img.shields.io/github/stars/deepsytxt?style=for-the-badge&logo=github&label=Stars&color=A5D669&labelColor=181818)
-![GitHub repo size](https://img.shields.io/github/repo-size/deepsytxt/deepsytxt?style=for-the-badge&logo=github&label=Repo%20Size&color=A5D669&labelColor=181818)
+![Metrics](https://metrics.lecoq.io/deepsytxt?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe%2FMoscow&config.twemoji=yes&config.display=wide)
 
 </div>
 
 <br>
-
----
-
-## 📊 GitHub Profile Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=deepsytxt&theme=dark&hide_border=true&background=181818&stroke=A5D669&ring=A5D669&fire=A5D669&currStreakLabel=A5D669)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-
 
 ## 📈 Activity
 
