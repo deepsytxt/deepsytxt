@@ -19,7 +19,6 @@
 </div>
 
 <br>
----
 
 ## About me
 
