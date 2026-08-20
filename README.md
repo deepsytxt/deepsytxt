@@ -1,13 +1,10 @@
-
-**Или как картинка-терминал:**
-
-markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A5D669&center=true&vCenter=true&width=800&height=150&lines=deepsy@github:~%24+whoami;Linux+%7C+Programming+%7C+Hardware;Python+%7C+C%23+%7C+C%2B%2B;Building%2C+breaking+and+learning." alt="Terminal Banner"/>
-
+``bash
+>~ deepsy
+Linux | Programming | Hardware
+Building, breaking and learning.
 </div>
-
 <br>
 <!-- LAST.FM -->
 <div align="center">
