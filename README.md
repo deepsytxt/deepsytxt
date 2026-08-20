@@ -190,11 +190,11 @@
 <!--                         TOOLS                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠 Инструменты
+##  Инструменты
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,terminal&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
 
 </div>
 
