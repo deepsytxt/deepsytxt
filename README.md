@@ -79,14 +79,13 @@
 
 ---
 
-## 🔧 Инструменты
+##  Инструменты
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduinoide,linux&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,arduino,linux&theme=dark&perline=6" />
 </div>
 
 <br>
-
 ---
 
 ##  Социальные сети
