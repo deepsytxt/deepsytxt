@@ -23,7 +23,7 @@
 
 ---
 
-## 👋 Обо мне
+##About me
 
 Привет! Я Deepsy.
 
@@ -31,9 +31,9 @@
 
 ---
 
-##  Системы и оборудование
+## Systems and equipment
 
-### Операционные системы
+### Operating Systems
 <div align="center">
   <img src="https://cdn.simpleicons.org/linux/ffffff" width="60" height="60" alt="Linux"/>
   <img src="https://cdn.simpleicons.org/gentoo/ffffff" width="60" height="60" alt="Gentoo"/>
@@ -54,7 +54,7 @@
 <br>
 
 
-## 💻 Языки программирования
+## 💻 Programming languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,kotlin&theme=dark&perline=6" />
@@ -64,7 +64,7 @@
 
 ---
 
-## 🌐 Разметка и стили
+## 🌐 Markup and styles
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
@@ -76,7 +76,7 @@
 
 ---
 
-##  Инструменты
+##  Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,arduino,linux&theme=dark&perline=6" />
@@ -84,7 +84,7 @@
 
 <br>
 
-##  Социальные сети
+##  Social media
 
 <div align="center">
 
@@ -130,7 +130,7 @@
 
 ---
 
-## 📈 Активность
+## 📈 Activity
 
 <div align="center">
 
