@@ -101,13 +101,25 @@ I love Linux, programming, microcontrollers, and hardware. I experiment with ope
 
 ---
 
-##  GitHub
+##  GitHub Stats
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-deepsytxt-181818?style=for-the-badge&logo=github&logoColor=A5D669)](https://github.com/deepsytxt)
+![GitHub followers](https://img.shields.io/github/followers/deepsytxt?style=for-the-badge&logo=github&label=Followers&color=A5D669&labelColor=181818)
+![GitHub stars](https://img.shields.io/github/stars/deepsytxt?style=for-the-badge&logo=github&label=Stars&color=A5D669&labelColor=181818)
+![GitHub repo size](https://img.shields.io/github/repo-size/deepsytxt/deepsytxt?style=for-the-badge&logo=github&label=Repo%20Size&color=A5D669&labelColor=181818)
 
-**Linux** • **Programming** • **Hardware**
+</div>
+
+<br>
+
+---
+
+## 📊 GitHub Profile Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=deepsytxt&theme=dark&hide_border=true&background=181818&stroke=A5D669&ring=A5D669&fire=A5D669&currStreakLabel=A5D669)](https://git.io/streak-stats)
 
 </div>
 
