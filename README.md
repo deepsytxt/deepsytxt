@@ -2,7 +2,7 @@
 
 <!-- БАННЕР -->
 <div align="center">
-  <img src="./assets/banner-rounded.png" width="100%" alt="Deepsy Banner"/>
+  <img src="./assets/banner.gif" width="100%" alt="Deepsy Banner"/>
 </div>
 
 <br>
