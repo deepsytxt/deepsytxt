@@ -22,9 +22,9 @@
 
 ## About me
 
-Привет! Я Deepsy.
+Hi! I’m Deepsy.
 
-Люблю Linux, программирование, микроконтроллеры и железо. Экспериментирую с операционными системами, пишу свои проекты и постоянно пытаюсь понять, как всё работает под капотом.
+I love Linux, programming, microcontrollers, and hardware. I experiment with operating systems, work on my own projects, and am constantly trying to understand how everything works under the hood.
 
 ---
 
