@@ -101,11 +101,13 @@ I love Linux, programming, microcontrollers, and hardware. I experiment with ope
 
 ---
 
-##  GitHub Stats
+##  GitHub
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/deepsytxt?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe%2FMoscow&config.twemoji=yes&config.display=wide)
+[![GitHub](https://img.shields.io/badge/GitHub-deepsytxt-181818?style=for-the-badge&logo=github&logoColor=A5D669)](https://github.com/deepsytxt)
+
+**Linux** • **Programming** • **Hardware**
 
 </div>
 
