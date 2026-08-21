@@ -84,7 +84,7 @@ I love Linux, programming, microcontrollers, and hardware. I experiment with ope
 <tr>
 <td align="center"><a href="https://t.me/Deepsytxt"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a><br><code>Channel</code></td>
 <td align="center"><a href="https://t.me/Deepsyanonbot"><img src="https://cdn.simpleicons.org/telegram/ffffff" width="50" height="50"/></a><br><code>Anon</code></td>
-<td align="center"><a href="https://tiktok.com/@YOUR_TIKTOK"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50"/></a><br><code>TikTok</code></td>
+<td align="center"><a href="https://tiktok.com/@de3ps1"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="50" height="50"/></a><br><code>TikTok</code></td>
 <td align="center"><a href="https://discord.gg/deepsy.txt"><img src="https://cdn.simpleicons.org/discord/ffffff" width="50" height="50"/></a><br><code>Discord</code></td>
 </tr>
 </table>
