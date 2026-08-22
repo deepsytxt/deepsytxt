@@ -1,6 +1,7 @@
 ```text
-deepsy@gentoo                                                                   -----------------
-                                    OS: Gentoo Linux x86_64
+                                     deepsy@gentoo
+                                     -----------------
+                                     OS: Gentoo Linux x86_64
 >>>>>>>                              Kernel: 6.18.7-gentoo-gentoo-dist
  >:::::>                             Uptime:7 hour, 6 mins
   >:::::>                            Packages: 989 (emegre)
