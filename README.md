@@ -54,7 +54,6 @@ I love Linux, programming, microcontrollers, and hardware. I experiment with ope
 
 <br>
 
----
 
 ## 🌐 Markup and styles
 
@@ -66,7 +65,6 @@ I love Linux, programming, microcontrollers, and hardware. I experiment with ope
 
 <br>
 
----
 
 ##  Tools
 
