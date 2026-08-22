@@ -1,4 +1,28 @@
-                                                                
+```text
+deepsy@gentoo                                                                   -----------------
+                                    OS: Gentoo Linux x86_64
+>>>>>>>                              Kernel: 6.18.7-gentoo-gentoo-dist
+ >:::::>                             Uptime:7 hour, 6 mins
+  >:::::>                            Packages: 989 (emegre)
+   >:::::>                           Shell:Nushell 0.115.0
+    >:::::>                          Resolution: 1920x1080
+     >:::::>                         DE/WM: Niri 26.04
+      >:::::>    ~~~~~~~~~    ~~~~~~ CPU: AMD Ryzen 5 7500F ( 6 ) @ 3.7 GHz
+     >:::::>   ~~:::::::::~  ~:::::~ GPU: NVIDIA GeForce GTX 1050 Ti
+    >:::::>   ~:::::~~:::::~~:::::~  Memory: 1.93 GiB / 30.70 GiB ( 6% )
+   >:::::>   ~:::::~  ~::::::::::~   Disk (/): 32.3 GiB / 121.45 GiB ( 26% )
+  >:::::>    ~~~~~~    ~~~~~~~~~~    
+ >:::::>                             
+>>>>>>>                             
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+```                                                                
 <!-- LAST.FM -->
 <div align="center">
   <a href="https://www.last.fm/user/deepsytxt">
