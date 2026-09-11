@@ -16,14 +16,6 @@
  >:::::>                             
 >>>>>>>                             
 ```                                                          
-<!-- LAST.FM -->
-<div align="center">
-  <a href="https://www.last.fm/user/deepsytxt">
-    <img src="https://lastfm-github-profile.vercel.app/api?user=deepsytxt&mode=recent&theme=default&bg=181818&accent=A5D669&width=650" width="650" alt="Now Playing"/>
-  </a>
-</div>
-
-<br><br>
 
 <!-- TYPING SVG -->
 <div align="center">
