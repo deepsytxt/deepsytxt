@@ -3,7 +3,7 @@
                                      -----------------
                                      OS: BURMAL-DOS 0.1
 >>>>>>>                              Kernel: Linux-6.18.7
- >:::::>                             Uptime:7 hour, 6 mins
+ >:::::>                             Uptime:11 hour, 6 mins
   >:::::>                            Packages: 989 (dpx)
    >:::::>                           Shell:Nushell 0.115.0
     >:::::>                          Resolution: 1920x1080
