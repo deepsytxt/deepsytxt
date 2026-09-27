@@ -1,16 +1,16 @@
 ```text
-                                     deepsy@gentoo
+                                     deepsy@burmal-dos
                                      -----------------
-                                     OS: Gentoo Linux x86_64
->>>>>>>                              Kernel: 6.18.7-gentoo-gentoo-dist
+                                     OS: BURMAL-DOS 0.1
+>>>>>>>                              Kernel: Linux-6.18.7
  >:::::>                             Uptime:7 hour, 6 mins
-  >:::::>                            Packages: 989 (emegre)
+  >:::::>                            Packages: 989 (dpx)
    >:::::>                           Shell:Nushell 0.115.0
     >:::::>                          Resolution: 1920x1080
      >:::::>                         DE/WM: Niri 26.04
       >:::::>    ~~~~~~~~~    ~~~~~~ CPU: AMD Ryzen 5 7500F ( 6 ) @ 3.7 GHz
      >:::::>   ~~:::::::::~  ~:::::~ GPU: NVIDIA GeForce GTX 1050 Ti
-    >:::::>   ~:::::~~:::::~~:::::~  Memory: 1.93 GiB / 30.70 GiB ( 6% )
+    >:::::>   ~:::::~~:::::~~:::::~  Memory: 223.4 MiB / 30.70 GiB ( 6% )
    >:::::>   ~:::::~  ~::::::::::~   Disk (/): 32.3 GiB / 121.45 GiB ( 26% )
   >:::::>    ~~~~~~    ~~~~~~~~~~    
  >:::::>                             
