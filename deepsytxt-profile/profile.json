@@ -1,0 +1,219 @@
+{
+  "version": 1,
+  "login": "deepsytxt",
+  "seed": "#2EC27E",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi! I’m",
+    "name": " 𝕯𝖊𝖊𝖕𝖘𝖞",
+    "subtitle": "I love Linux, programming, microcontrollers, and hardware. I experiment with operating systems, work on my own projects, and am constantly t",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia"
+      },
+      {
+        "icon": "code",
+        "label": "Python · JS · C# · C++ · Kotlin"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Programming languages",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "С++"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "JS"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "Github"
+          },
+          {
+            "icon": "brand:vscodium",
+            "label": "VSCodium"
+          },
+          {
+            "icon": "brand:vim",
+            "label": "Vim"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:arduino",
+            "label": "Arduino IDE"
+          }
+        ]
+      },
+      {
+        "title": "Hardware",
+        "items": [
+          {
+            "icon": "brand:espressif",
+            "label": "ESP"
+          },
+          {
+            "icon": "brand:raspberrypi",
+            "label": "Raspberry Pi"
+          },
+          {
+            "icon": "brand:arduino",
+            "label": "Arduino"
+          }
+        ]
+      },
+      {
+        "title": "Operating Systems",
+        "items": [
+          {
+            "icon": "brand:fedora",
+            "label": "Fedora"
+          },
+          {
+            "icon": "brand:gentoo",
+            "label": "Gentoo"
+          },
+          {
+            "icon": "brand:devuan",
+            "label": "Devuan"
+          },
+          {
+            "icon": "brand:debian",
+            "label": "Debian"
+          },
+          {
+            "icon": "brand:nixos",
+            "label": "NixOS"
+          },
+          {
+            "icon": "brand:alpinelinux",
+            "label": "Alpine"
+          },
+          {
+            "icon": "brand:voidlinux",
+            "label": "Void"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://deepsybio.netlify.app/",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/deepsytxt?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
