@@ -17,13 +17,15 @@
     "wave",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "about"
+  ],
   "hero": {
     "greeting": "Hi! I’m",
     "name": " 𝕯𝖊𝖊𝖕𝖘𝖞",
     "subtitle": "I love Linux, programming, microcontrollers, and hardware. I experiment with operating systems, work on my own projects, and am constantly t",
     "typing": true,
-    "avatarShape": "pill",
+    "avatarShape": "cookie",
     "chips": [
       {
         "icon": "location_on",
@@ -37,20 +39,7 @@
   },
   "about": {
     "title": "About me",
-    "items": [
-      {
-        "icon": "person",
-        "label": "Developer and designer"
-      },
-      {
-        "icon": "code",
-        "label": "Mostly frontend"
-      },
-      {
-        "icon": "palette",
-        "label": "Into Material Design"
-      }
-    ]
+    "items": []
   },
   "stack": {
     "title": "Tech stack",
@@ -73,6 +62,10 @@
           {
             "icon": "brand:kotlin",
             "label": "Kotlin"
+          },
+          {
+            "icon": "brand:github",
+            "label": ""
           }
         ]
       },
@@ -158,9 +151,26 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
-    "overrides": {},
+    "source": "manual",
+    "repos": [
+      "MyBioSite",
+      "deepsytxt",
+      "TgBotDeepsy"
+    ],
+    "overrides": {
+      "MyBioSite": {
+        "shape": "cookie"
+      },
+      "deepsytxt": {
+        "shape": "cookie"
+      },
+      "TgBotDeepsy": {
+        "shape": "cookie"
+      },
+      "Fsociety-visual": {
+        "shape": "cookie"
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
@@ -185,15 +195,11 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/Deepsytxt"
       },
       {
         "icon": "brand:discord",
         "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
       }
     ],
     "variant": "chip",
