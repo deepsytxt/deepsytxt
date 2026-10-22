@@ -196,10 +196,6 @@
       {
         "icon": "brand:telegram",
         "url": "https://t.me/Deepsytxt"
-      },
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
       }
     ],
     "variant": "chip",
